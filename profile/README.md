@@ -19,7 +19,7 @@ Our mission is to build practical software that reduces operational friction, su
 | Main product | `migrata-cli` |
 | Primary languages / tech stack | F#, ReScript |
 | License | Varies by repository |
-| Contact / Social |  |
+| Contact / Social | See individual repositories for project-specific links |
 | Description | `migrata-cli` is a command-line tool for managing database migrations reliably, designed for developers who value safety, clarity, and automation. |
 
 ## Highlights
