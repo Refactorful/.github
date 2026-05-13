@@ -1,37 +1,21 @@
 # Refactorful
 
 Refactorful creates software developers can trust. We focus on building tools and infrastructure that help teams move faster while keeping systems safe, predictable, and maintainable.
-Our mission is to simplify complex technical systems, reduce operational friction, and empower engineers to focus on what matters: building great software.
-
-## What we focus on
-
-* Developer tools that improve workflow efficiency and safety
-* Database and infrastructure tooling with clear, reviewable changes
-* Products that prioritize control, predictability, and maintainability
+Our mission is to simplify complex technical systems, reduce operational friction, and let engineers to focus on what matters: building great software.
 
 ## Highlights
 
 ### migrata-cli
 
-The core Migrata command-line experience for managing database schema changes safely and transparently.
+Take the stress out of schema changes: inspect, diff, and apply changes with plain SQL — like Terraform for your database.
 
-* **Links:** [Website](https://migrata.io) · [Documentation](https://docs.migrata.io)
-* **Use cases:** Version-controlling schemas, previewing migration diffs, and applying changes with explicit review
-* **Key features:** Local-first workflow, plain SQL migrations, schema inspection, intelligent diffing, and safe execution
-
-### migrata-cli-releases
-
-Public release and installation repository for Migrata CLI binaries and install scripts.
-
-* **Repository:** [Refactorful/migrata-cli-releases](https://github.com/Refactorful/migrata-cli-releases)
-* **Use cases:** Installing Migrata, downloading public releases, and integrating release distribution into team workflows
-* **Key features:** Hosted release assets, installation scripts, and a public entry point for trying Migrata
-
-## Explore Refactorful
-
-* [Migrata website](https://migrata.io)
-* [Migrata documentation](https://docs.migrata.io)
-* [migrata-cli-releases repository](https://github.com/Refactorful/migrata-cli-releases)
+* **Links:** [Website](https://migrata.io) · [Documentation](https://docs.migrata.io) · [Releases](https://github.com/Refactorful/migrata-cli-releases)
+* **Summary:** Define your desired schema in SQL and let Migrata compute the exact changes needed to bring a live database into alignment. You review the diff, approve it, and Migrata applies only what is missing.
+* **Use cases:** 
+    - Version controlled schemas stored alongside application code
+    - Previewing diffs before applying changes in any environment
+    - Recovering from failed migrations without manual cleanup
+    - Enforcing consistent workflows across dev, staging, and production
 
 ## Get involved
 
