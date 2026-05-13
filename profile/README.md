@@ -14,7 +14,7 @@ Take the stress out of schema changes: inspect, diff, and apply changes with pla
 * **Use cases:** 
     - Version controlled schemas stored alongside application code
     - Previewing diffs before applying changes in any environment
-    - Recovering from failed migrations without manual cleanup
+    - Catching unintended changes when a database diverges from the schema defined in Git
     - Enforcing consistent workflows across dev, staging, and production
 
 ## Get involved
