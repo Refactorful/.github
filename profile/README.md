@@ -5,7 +5,7 @@ Our mission is to simplify complex technical systems, reduce operational frictio
 
 ## Highlights
 
-### migrata-cli
+### [Migrata CLI](https://migrata.io)
 
 Take the stress out of schema changes: inspect, diff, and apply changes with plain SQL — like Terraform for your database.
 
