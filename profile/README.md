@@ -1,7 +1,8 @@
 # Refactorful
 
-Refactorful creates software developers can trust. We focus on building tools and infrastructure that help teams move faster while keeping systems safe, predictable, and maintainable.
-Our mission is to simplify complex technical systems, reduce operational friction, and let engineers to focus on what matters: building great software.
+Refactorful builds software developers can trust.
+
+We create tools that make complex systems easier to understand, safer to change, and simpler to maintain. Our goal isn't to add another layer of abstraction; it's to remove unnecessary complexity so engineers can spend less time fighting infrastructure and more time building software.
 
 ## Highlights
 
